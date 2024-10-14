@@ -23,7 +23,7 @@
 ### 📋 **How to Use**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/CaseCraftedQA.git
+   git clone https://github.com/AreejPanhwer/CaseCrafted_QA
    ```
 
 2. **Set Up Dependencies:**
@@ -56,19 +56,19 @@
 
 
 ### 🔗 **Links**
-- **Test Documentation:** [Link to Test Documentation]
-- **Test Report Samples:** [Link to Test Reports]
-- **Project Portfolio:** [Link to Portfolio]
+- **Test Documentation:** [https://github.com/AreejPanhwer/CaseCrafted_QA]
+- **Test Report Samples:** [https://github.com/AreejPanhwer/CaseCrafted_QA]
+- **Project Portfolio:** [https://github.com/AreejPanhwer/CaseCrafted_QA]
 
 
 ### 🤝 **Contributing**
-We welcome contributions to improve the testing process or extend the test coverage. Please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions to improve the testing process or extend the test coverage. Please follow our [https://github.com/AreejPanhwer](https://github.com/AreejPanhwer).
 
 
 ### 📬 **Contact**
 If you have any questions, feel free to reach out at:
-- **Email:** yourname@example.com
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** areejpanhwer82@gmail.com
+- **LinkedIn:** [www.linkedin.com/in/engr-areej-243abd4538]
 
 
 **CaseCrafted QA** – Where precision meets performance in software testing. 🛡️
